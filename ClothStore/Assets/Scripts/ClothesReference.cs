@@ -9,4 +9,7 @@ public class ClothesReference : MonoBehaviour
     public List<GameObject> Top = new List<GameObject>();
     public List<GameObject> Bottom = new List<GameObject>();
     public List<GameObject> Shoes = new List<GameObject>();
+
+
+   
 }

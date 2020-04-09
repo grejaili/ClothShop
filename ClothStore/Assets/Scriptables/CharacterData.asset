@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db5dcb75a8d05544faa5c686ca9350ec, type: 3}
+  m_Name: CharacterData
+  m_EditorClassIdentifier: 
+  Panties_On: 0
+  Bras_On: 0
+  Top_on: 0
+  Bottom_On: 0
+  Shoes_On: 0
